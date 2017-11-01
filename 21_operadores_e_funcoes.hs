@@ -1,0 +1,101 @@
+--True && False
+--False
+--
+--True || False
+--True
+--
+--not True
+--False
+--
+--div 3 2--retorna somente a parte inteira da divisão
+--1
+--
+--mod 3 2--resto da divisão
+--1
+--
+--abs (-20)--valor absoluto de um inteiro
+--20
+--
+--2 > 2
+--False
+--
+--2 < 2
+--False
+--
+--2 >= 2
+--True
+--
+--2 <= 2
+--True
+--
+--2 == 2
+--True
+--
+--2 /= 2
+--False
+--
+-- *** char functions
+--import Data.Char
+--
+--ord 'g'--valor numérico do caracter na tabela ASCII
+--103
+--
+--chr 103
+--'x'
+--
+--isLower 'a'
+--True
+--
+--isLower 'A'
+--False
+--
+--isUpper 'a'
+--False
+--
+--isUpper 'A'
+--True
+--
+--toUpper 'A'
+--'A'
+--
+--toLower 'A'
+--'a'
+--
+--isDigit '1'
+--True
+--
+--isDigit 'a'
+--False
+--
+--digitToInt '2'
+--2
+--
+--intToDigit 2
+--'2'
+--
+--exp 2
+--7.38905609893065
+--
+--fromIntegral 10
+--10
+--
+--log 10
+--2.302585092994046
+--
+--sqrt 100
+--10
+--
+--sqrt 25
+--5
+--
+--floor 3.8
+--3
+--
+--ceiling 3.8
+--4
+--
+--round 4.5
+--4
+--
+--round 4.6
+--5
