@@ -1,0 +1,64 @@
+--null []
+--True
+--
+--null [1,2,4]
+--False
+--
+--head [4,5,32]
+--4
+--
+--tail [4,5,32]
+--[5,32]
+--
+--last [1,2,4,5]
+--5
+--
+--init [1,2,3]
+--[1,2]
+--
+--length [6,4,2]
+--3
+--
+--drop 4 [1,2,3,4,5]
+--[5]
+--
+--lines "carro"
+--["carro"]
+--
+--take 10 [2,3,4]
+--[2,3,4]
+--
+--take 2 [1,2,3]
+--[1,2]
+--
+--words "aprendendo haskell"
+--["aprendendo", "haskell"]
+--
+--reverse [1,2,3,4]
+--[4,3,2,1]
+--
+--repeat 3
+--[3,3,3,3,3,3,3,3,3,3,3,3,3,3,3...]
+--
+--replicate 2 "haskell"
+--["haskell", "haskell"]
+--
+--cycle ["asd"]
+--["asd", "asd",...]
+--
+--splitAt 2 "bigname"
+--("bi", "gname")
+--
+--and [True,False,True]
+--False
+--
+--or [True,False,False]
+--True
+--
+--zip [1,2,3] [4,5]
+--[(1,4), (2,5)]
+--
+--unzip [(1,3), (2,4)]
+--([1,2], [3,4])
+--
+
